@@ -1,7 +1,7 @@
 # Breast Cancer Classification
 ### Overview
 
-This Python script is designed to solve the breast cancer classification problem using a dataset with features related to breast cancer diagnostics. The script uses Logistic Regression, a machine learning algorithm, to classify instances as either malignant (cancerous) or benign (non-cancerous).
+This Jupyter Notebook is designed to solve the breast cancer classification problem using a dataset with features related to breast cancer diagnostics. The script uses Logistic Regression, a machine learning algorithm, to classify instances as either malignant (cancerous) or benign (non-cancerous).
 
 ### Dataset
 
